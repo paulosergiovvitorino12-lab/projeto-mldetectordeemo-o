@@ -1,1 +1,1 @@
-# projeto-mldetectordeemo-o
+# projeto-ml-detectordeemo-o
